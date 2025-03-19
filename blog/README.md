@@ -1,0 +1,3 @@
+# Blog
+
+<Catalog dirs={["blog/"]}/>
